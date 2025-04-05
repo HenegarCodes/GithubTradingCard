@@ -29,5 +29,3 @@ await octokit.request("GET /repos/{owner}/{repo}/issues", {
       'X-GitHub-Api-Version': '2022-11-28'
     }
   })
-
-  //route for repo count???
